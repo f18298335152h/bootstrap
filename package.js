@@ -1,5 +1,8 @@
 // package metadata file for Meteor.js
-
+ahsgdjasdkjas
+zjxncz,mxn,mczxn
+zjsdkasds
+zmxcn
 /* global Package:true */
 
 Package.describe({
